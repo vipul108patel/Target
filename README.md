@@ -10,6 +10,7 @@
 # How it's work:
 
 Open a CMD and type command which given below. 
+
 scrapy crawl target -a url=<URL>
   
 # Output
